@@ -2,7 +2,7 @@
  * Origin
  */
 body {
-  background: #fff;
+  background: #639;
   margin-bottom: 40px;
   height: 100%;
   font-size: 16px;
@@ -35,7 +35,7 @@ body {
  * Code Column
  */
 .code-column {
-  background-color: #fff;
+  background-color: #639;
   color: #fff;
   word-wrap: break-word;
 }
@@ -80,7 +80,7 @@ pre {
   white-space: pre-wrap;
 }
 pre .pln {
-  color: #333;
+  color: #fff;
 }
 pre .str {
   color: #ffa0a0;

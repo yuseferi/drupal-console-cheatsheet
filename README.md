@@ -2,15 +2,20 @@
 
 A quick reference guide (cheat sheet) for Drupal Console listing commands.
 
-We intend to build this Cheat Sheet more assessable and user friendly, you can view it with modern desktop :computer: browser and mobile device :iphone: .
+We intend to build this Cheat Sheet more assessable and user friendly.
+you can view it with modern desktop :computer: browser and mobile device :iphone: .
 
-### Live Version
+##### Because the main one is not available I customize and post on my weblog to be available for Drupal Console fans
 
-http://drupalconsole.com/cheatsheet/
+#### Live Version
+http://yuseferi.com/drupal-console-cheatsheet/
 
-## ScreenShots
+### ScreenShots
 
-![](assets/images/cheatsheet-screenshot.png) 
+![](assets/images/cheatsheet-screenshot.png)
+
+
+Read more about Drupal Console on [Drupal Console Official Website](https://drupalconsole.com/) 
 
 ## Based on the laravel5-cheatsheet
 
